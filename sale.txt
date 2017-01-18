@@ -1,0 +1,16 @@
+orange 1.2 506.21
+apple 1.25 944.23
+grape 2.25 393.5
+cherry 4.25 234.56
+avocado 4.76 107.2
+celery 2.3 99.45
+broccoli 2.1 498.3
+cucumber 1.8 367.3
+onion 4.3 234.2
+blueberry 3.5 87.3
+tomato 2.9 873.9
+spinach 3.9 267.3
+lettuce 5.2 882.4
+salmon 10.99 342.4
+catfish 6.99 258.3
+potato 0.6 823.65
